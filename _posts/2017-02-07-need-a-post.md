@@ -19,7 +19,7 @@ I've also come to realize that there are some topics I am more interested in tha
 
 I want to focus more on development. As well as bring my SQL dev skills up above average. I also want to learn more about Powershell and Python. Maybe down the line, I will move more into the development side of SQL.
 
-Another goal I have been working on is getting a better understanding of the business side of things, which includes learning more about management. Do I want to be a manager? I don't think so, but at the same time, I'm also at a point in my career where I might want the option. Whether or not that is in the cards, is neither here nor there, I just think it would help me be a better SQL DBA/Developer. It is essential to develop leadership qualities and [relationships](2016-06-29-relationships.md). 
+Another goal I have been working on is getting a better understanding of the business side of things, which includes learning more about management. Do I want to be a manager? I don't think so, but at the same time, I'm also at a point in my career where I might want the option. Whether or not that is in the cards, is neither here nor there, I just think it would help me be a better SQL DBA/Developer. It is essential to develop leadership qualities and relationships. 
 
 Which is one of the reasons I jumped at the chance to take a three-day ITIL course. The certification was just a bonus. I wanted to have a better understanding of where management was going. This reminds me, I have a couple of books to read that were passed out to managers recently.
 

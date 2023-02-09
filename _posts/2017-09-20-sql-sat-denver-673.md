@@ -7,7 +7,7 @@ tags: [learning,sql saturday,career]
 
 ![SQL Saturday Denver](/assets/images/sql-sat-denver.jpg)
 
-I feel accomplished a bit this year, I've made it to two SQLSaturdays in the same calendar year. This SQLSaturday was put on by the Denver SQL Users group and was hosted at the University of Denver. There were a number of sessions I wanted to attend, and they all seemed to be in the same block, I hate when that happens. I'm hoping I can catch a youtube of some of the ones I missed. Sadly, Idera wasn't there this time, so I didn't get a new duck [like the last one](/2017-03-26-sql-sat-584.md). What's up with that Idera?
+I feel accomplished a bit this year, I've made it to two SQLSaturdays in the same calendar year. This SQLSaturday was put on by the Denver SQL Users group and was hosted at the University of Denver. There were a number of sessions I wanted to attend, and they all seemed to be in the same block, I hate when that happens. I'm hoping I can catch a youtube of some of the ones I missed. Sadly, Idera wasn't there this time, so I didn't get a new duck like the last one. What's up with that Idera?
 
 ## In the meantime, here are the sessions I did make it to
 
