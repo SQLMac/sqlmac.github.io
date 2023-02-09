@@ -1,0 +1,1 @@
+Did you know you can add a replica to an Availability Group and then add the databases later?

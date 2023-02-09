@@ -1,0 +1,1 @@
+If you are creating a new replica for an Availablity Group, did you know you can add the databases one at a time?

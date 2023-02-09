@@ -1,0 +1,1 @@
+Over the last few weeks, I have been asking myself if having my regular domain account to SA is really that smart. 

@@ -1,0 +1,5 @@
+It never fails, you'll be focused on a task or have your head in some code when some one drops in on you and asks a question. While this isn't an issue in itself, it is problematic when the person doing the dropping in is more focused on their answer than what you were doing. Often times, you get this from managers or developers who are in a hurry to solve a problem. There is no avoiding this kinds of interruptions, but as the person asking the question you could make it easier for the person you ask the question of to answer. Ya, I know, that was a confusing statement. Let me elaborate.
+
+Example:
+
+You are sitting in front of your workstation, headphones on and focused on your work when you buzzed by your manager. So you stop what you're doing, pause your tunes, and remove the headphones to get blitzed with 2-10 rapid fire questions in an obvious hurried fashion, ie. the manager is on a call, or preparing for one, and last second needs these answers.
