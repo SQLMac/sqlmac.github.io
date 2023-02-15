@@ -29,3 +29,6 @@ end
 
 # add in sitemap generator
 gem 'jekyll-sitemap'
+
+#add redirect plugin --https://github.com/jekyll/jekyll-redirect-from
+gem 'jekyll-redirect-from' 
