@@ -3,6 +3,7 @@ title: Relationships matter
 date: 2016-06-29 09:24 -500
 categories: [dba]
 tags: [career]
+redirect_from: /being-a-dba-is-also-about-relationships
 ---
 
 ### Relationships Matter
