@@ -39,6 +39,6 @@ I've also realized with all of the snow and work, that I haven't been doing a go
 
 ![nremt_cert](/assets/images/nremt-cert.png)
 
-Last year, I [started a journey]({% post_url 2022-12-23-becoming-emt.md %}) to become a volunteer EMT here in Wisconsin and I am happy to say, I've completed that. I passed the NREMT psychomotor test in March, and passed the cognitive test in April to earn my cert. 
+Last year, I [started a journey]({% post_url 2022-12-23-becoming-emt %}) to become a volunteer EMT here in Wisconsin and I am happy to say, I've completed that. I passed the NREMT psychomotor test in March, and passed the cognitive test in April to earn my cert. 
 
 It is hands down, one of the hardest things I have ever done. I won't lie either, there were a number of times I almost gave up and quit. I want to thank my wife April for her total support, I couldn't have done it without her. I also want to thank my class mates, fellow newly licensed EMTs, and above all else friends - Courtney and Aj for their support and healthy competition to help me get it done. It was a battle to get here, and couldn't have done it without you two.
