@@ -1,5 +1,5 @@
 ---
-title: Obsidian
+title: Speed of Life...
 date: 2023-04-18 18:00 -500
 categories: [personal]
 tags: []
