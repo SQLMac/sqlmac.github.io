@@ -5,15 +5,17 @@ categories: [sql server,dba]
 tags: [tempdb]
 ---
 
-# add files to tempdb
+# Add files to tempdb
+
+![tempdb files](/assets/images/tempdb/addFile-1024x309.png)
 
 The number of files TempDb has will affect the performance of your SQL server. Often times, and prior to SQL 2016, adding files to TempDb is the proper course of action. In SQL 2016+, the SQL installer correctly adds the number of files to core ratio - at least up to 8. 
 
-Background
+## Background
 
 In SQL Server, TempDB is a system database used by the SQL engine. TempDb's primary function job is to store internal objects used by SQL like sorts, spools, and other temporary work. Think of it more a like a system scratch pad than a regular database. TempDb is not just for internal system use, it can also be used for scratch work by any database. query. or stored procedure. Another way to look at TempDb is that is SQL's version of swap space. When queries are too large to run in memory and they spill to disk, TempDb is where the queries will spill over to. One other use of TempDb is it will be used to hold version stores, which is a method to allow read queries to operate on tables without causing blocking.
 
-Number of Files needed for TempDb
+## Number of Files needed for TempDb
 
 Ideally, and per Microsoft guidance, TempDb should have one file for each processing core of the instance. When you license SQL per core, you have to pay for a minium of 4 cores, there should 4 files in TempDb. This one to one ratio holds true up to 8 cores, and then the ratio between numbers of cores to TempDb files gets murky, which is a separate topic.
 
