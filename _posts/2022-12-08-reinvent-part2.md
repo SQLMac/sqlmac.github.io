@@ -1,11 +1,11 @@
 ---
-title: reInvent - Part 2
+title: re:Invent - Part 2
 date: 2022-12-09 05:30 -500
 categories: [cloud,dba]
 tags: [databases,devops]
 ---
 
-# Part 2 
+# re\:Invent Part 2
 
 I have a pretty established rountine when I get up in the morning. First thing first, make the coffee and pateintly wait for God's go juice to help get me going with wanting to commit homicide. Over the top? Maybe. Keep in mind, I've been drinking coffee every morning since I was 15 and I'm a USAF Vet - somethings you just don't mess with. Anyway, this is when I realize the room has no coffee pot. Uggghhhh. I know, I know - first world problems. 
 

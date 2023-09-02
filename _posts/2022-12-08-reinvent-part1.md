@@ -1,11 +1,11 @@
 ---
-title: reInvent - Part 1
+title: re:Invent - Part 1
 date: 2022-12-08 05:30 -500
 categories: [cloud,dba]
 tags: [databases,devops]
 ---
 
-# I went to reInvent in Vegas
+# I went to re\:Invent in Vegas
 
 I know it's been a while since I've posted, and there are a lot of good reasons for that which I'll get to soon enough. That being said, I wanted to put a post up about my experience at re:Invent 2022. It was quite the event, and quite the experience. 
 
