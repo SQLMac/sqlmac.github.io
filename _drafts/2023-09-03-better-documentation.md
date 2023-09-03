@@ -7,7 +7,7 @@ tags: [dba, documentation]
 
 # Taking a new approach to documentation
 
-[![Disorganized documentaion](/assets/images/doc_hassle.jpeg) sourced from blr.com](https://blr.com)
+[![Disorganized documentation](/assets/images/doc_hassle.jpeg) sourced from blr.com](https://blr.com)
 
 I'm sure I'm not alone when I say I haven't been as good at keeping documentation as I should have. In fact, it's been a bit of chore that I dislike doing. Not because I don't want to create documentation, but because the process has been terrible. No one wants to suffer through a bad process. 
 
