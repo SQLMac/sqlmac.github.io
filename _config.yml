@@ -122,7 +122,7 @@ paginate: 10
 # plugins
 
 # add plugins
-#url: "https://sqlmac.com" # the base hostname & protocol for your site
+url: "https://sqlmac.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
