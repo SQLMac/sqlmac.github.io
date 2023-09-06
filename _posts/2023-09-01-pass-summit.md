@@ -1,7 +1,7 @@
 ---
 title: Pass Summit 2023
 date: 2023-09-01 10:00 -500
-categories: [personal]
+categories: [dba]
 tags: [conference, career]
 ---
 
