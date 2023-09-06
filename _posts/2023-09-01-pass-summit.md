@@ -7,7 +7,7 @@ tags: [conference, career]
 
 # Pass Data Summit 2023
 
-[![pass summit 2023](/assets/images/pass_summit_2023.png)](https://passdatacommunitysummit.com)
+[![pass summit 2023](/assets/images/pass_summit1_2023.png)](https://passdatacommunitysummit.com)
 
 ### I am excited that I finally get to go to Pass. 
 
