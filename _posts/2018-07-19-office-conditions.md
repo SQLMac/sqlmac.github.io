@@ -2,6 +2,7 @@
 title: Office Conditions
 date: 2018-07-19 15:04 -500
 categories: [personal]
+sitemap: false
 tags: [rant]
 ---
 

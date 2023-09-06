@@ -2,6 +2,7 @@
 title: Different Perspective 
 date: 2018-02-06 07:40 -500
 categories: [personal]
+sitemap: false
 tags: []
 ---
 

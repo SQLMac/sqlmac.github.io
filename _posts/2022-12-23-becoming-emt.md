@@ -2,6 +2,7 @@
 title: Becoming an EMT
 date: 2022-12-23 17:30 -500
 categories: [personal]
+sitemap: false
 tags: []
 ---
 
