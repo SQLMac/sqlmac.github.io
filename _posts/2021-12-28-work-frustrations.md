@@ -2,6 +2,7 @@
 title: Getting overly frustrated
 date: 2021-12-28 14:15 -500
 categories: [personal]
+sitemap: false
 tags: [rant]
 ---
 

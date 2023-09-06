@@ -2,6 +2,7 @@
 title: Moving the blog
 date: 2021-02-10 19:09 -500
 categories: [personal]
+sitemap: false
 tags: [blog]
 ---
 
